@@ -1,19 +1,26 @@
-# Lista de Exercícios - Herança 1
+# Lista de Exercícios AC2 - Herança 4
 
 Projeto da matéria de POO FACENS
 
 ## 🚀 Começando
 
-* Uma empresa possui como clientes pessoas físicas e jurídicas. Uma pessoa física possui nome, cpf, endereço e e-mail, enquanto uma pessoa jurídica possui nome, cnpj, endereço e email.
+* Crie um projeto no com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
+* Soma(int, int) que retorna a soma dos parâmetros;
+* Triangulo(int altura) que exibe um triângulo com a altura especificada. Exemplo:
 
-* Há ainda a necessidade de cadastrar seus funcionários, onde cada funcionário possui nome, cpf, endereço e salário.
-* Crie classes adequadas para cada necessidade.
-* Teste as classes criando vários objetos.
+x
+xx
+xxx
+xxxx
+Xxxxx
+
+* printArquivo(String arquivo) que lê um arquivo de texto e imprime seu conteúdo.
+* Crie a classe Main em outro pacote e teste as funções da classe FuncoesUteis.
 
 
 ## 🛠️ Construído com
 
-* Visual Code
+* Eclipse IDE
 
 ## 📌 Versão
 
@@ -21,4 +28,4 @@ Projeto da matéria de POO FACENS
 
 ## ✒️ Autores
 
-* **Gabriel Alesiunas** - *Herança_1* 
+* **Gabriel Alesiunas** - *Herança_4* 
